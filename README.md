@@ -12,4 +12,4 @@ Download OpenCv for raspberry pi: https://www.youtube.com/watch?v=ylnjXbcNLJU
 
 ## Run
 
-Use python3 <nameOfFile> to run this project. Otherwise we will not be able to use some libraries required
+Use python3 "name_of_project" to run this project. Otherwise we will not be able to use some libraries required
